@@ -7,10 +7,7 @@
 ---
 
 ### Quick links
-- **How to contribute:** [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - **License:** [`LICENSE`](LICENSE)
-- **Developer Certificate of Origin:** [`DCO.md`](DCO.md)
-- **Mirror policy:** [`MIRROR_POLICY.md`](MIRROR_POLICY.md)
 
 ---
 
@@ -19,7 +16,7 @@ Clinic Commons is an open, clinician-governed knowledge commons that publishes a
 
 ---
 
-### Contributing in one minute
+### Planned - Contributing in one minute
 1. Visit the canonical repo → <https://codeberg.org/cliniccommons/>  
 2. Open an issue or merge‑request **there** (preferred).  
 3. If you must use GitHub, open a PR here; maintainers will port it across.  
@@ -30,15 +27,14 @@ No‑git option: upload files via <https://cliniccommons.org/contribute> and we�
 ---
 
 ### License snapshot
-All written content: **Creative Commons Attribution‑ShareAlike 4.0 International** (CC BY‑SA 4.0).  
-Software examples: **Apache‑2.0**.
+**Creative Commons Attribution‑ShareAlike 4.0 International** (CC BY‑SA 4.0).  
 
 Share‑Alike means derivatives must remain under the same license and attribution must be preserved.
 
 ---
 
 ### Contact
-* foundation@cliniccommons.org  
+* contact@cliniccommons.org  
 * <https://cliniccommons.org>
 
 ```
